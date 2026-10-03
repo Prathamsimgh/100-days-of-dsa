@@ -21,3 +21,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | Day | Date | Topic | Problem |
 |-----|------|-------|---------|
 | 1 | 2026-10-02 | Arrays | Two Sum |
+| 2 | 2026-10-03 | Arrays | Best Time to Buy and Sell Stock |
