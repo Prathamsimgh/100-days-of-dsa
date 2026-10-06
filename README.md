@@ -24,3 +24,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 2 | 2026-10-03 | Arrays | Best Time to Buy and Sell Stock |
 | 3 | 2026-10-04 | Arrays | Maximum Subarray |
 | 4 | 2026-10-05 | Arrays | Container With Most Water |
+| 5 | 2026-10-06 | Arrays | Product of Array Except Self |
