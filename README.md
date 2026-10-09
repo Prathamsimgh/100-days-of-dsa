@@ -27,3 +27,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 5 | 2026-10-06 | Arrays | Product of Array Except Self |
 | 6 | 2026-10-07 | Arrays | Find Minimum in Rotated Sorted Array |
 | 7 | 2026-10-08 | Arrays | Merge Intervals |
+| 8 | 2026-10-09 | Arrays | 3Sum |
