@@ -28,3 +28,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 6 | 2026-10-07 | Arrays | Find Minimum in Rotated Sorted Array |
 | 7 | 2026-10-08 | Arrays | Merge Intervals |
 | 8 | 2026-10-09 | Arrays | 3Sum |
+| 9 | 2026-10-10 | Arrays | Trapping Rain Water |
