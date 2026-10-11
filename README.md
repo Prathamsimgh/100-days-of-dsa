@@ -29,3 +29,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 7 | 2026-10-08 | Arrays | Merge Intervals |
 | 8 | 2026-10-09 | Arrays | 3Sum |
 | 9 | 2026-10-10 | Arrays | Trapping Rain Water |
+| 10 | 2026-10-11 | Arrays | Subarray Sum Equals K |
