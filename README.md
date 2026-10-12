@@ -30,3 +30,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 8 | 2026-10-09 | Arrays | 3Sum |
 | 9 | 2026-10-10 | Arrays | Trapping Rain Water |
 | 10 | 2026-10-11 | Arrays | Subarray Sum Equals K |
+| 11 | 2026-10-12 | Arrays | Sort Colors |
