@@ -31,3 +31,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 9 | 2026-10-10 | Arrays | Trapping Rain Water |
 | 10 | 2026-10-11 | Arrays | Subarray Sum Equals K |
 | 11 | 2026-10-12 | Arrays | Sort Colors |
+| 12 | 2026-10-13 | Arrays | Set Matrix Zeroes |
