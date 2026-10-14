@@ -32,3 +32,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 10 | 2026-10-11 | Arrays | Subarray Sum Equals K |
 | 11 | 2026-10-12 | Arrays | Sort Colors |
 | 12 | 2026-10-13 | Arrays | Set Matrix Zeroes |
+| 13 | 2026-10-14 | Strings | Longest Palindromic Substring |
