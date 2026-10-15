@@ -33,3 +33,5 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 11 | 2026-10-12 | Arrays | Sort Colors |
 | 12 | 2026-10-13 | Arrays | Set Matrix Zeroes |
 | 13 | 2026-10-14 | Strings | Longest Palindromic Substring |
+
+| 14 | 2026-10-15 | Strings | Valid Anagram |
