@@ -45,3 +45,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 14 | 2026-10-15 | Strings | Valid Anagram | O(n) | O(1)* |
 
 \* O(1) extra — output storage excluded.
+| 15 | 2026-10-16 | Strings | Longest Substring Without Repeating Chars | O(n) | O(min(n, m)) |
