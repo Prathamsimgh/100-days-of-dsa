@@ -46,3 +46,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 
 \* O(1) extra — output storage excluded.
 | 15 | 2026-10-16 | Strings | Longest Substring Without Repeating Chars | O(n) | O(min(n, m)) |
+| 16 | 2026-10-17 | Strings | Group Anagrams | O(n·k) | O(n·k) |
