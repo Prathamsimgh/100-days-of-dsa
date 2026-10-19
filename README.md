@@ -48,3 +48,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 15 | 2026-10-16 | Strings | Longest Substring Without Repeating Chars | O(n) | O(min(n, m)) |
 | 16 | 2026-10-17 | Strings | Group Anagrams | O(n·k) | O(n·k) |
 | 17 | 2026-10-18 | Strings | Minimum Window Substring | O(n) | O(m) |
+| 18 | 2026-10-19 | Strings | Longest Common Prefix | O(S) | O(1) |
