@@ -49,3 +49,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 16 | 2026-10-17 | Strings | Group Anagrams | O(n·k) | O(n·k) |
 | 17 | 2026-10-18 | Strings | Minimum Window Substring | O(n) | O(m) |
 | 18 | 2026-10-19 | Strings | Longest Common Prefix | O(S) | O(1) |
+| 19 | 2026-10-20 | Strings | Valid Palindrome | O(n) | O(1) |
