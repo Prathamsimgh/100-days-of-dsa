@@ -1,5 +1,9 @@
 # 100 Days of DSA
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-yellowgreen?style=flat-square)
+![Challenge](https://img.shields.io/badge/challenge-100%20days-58A6FF?style=flat-square)
+
 One DSA problem every day. GATE 2027 prep + competitive programming practice.
 
 Started: 2 Oct 2026
