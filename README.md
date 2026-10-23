@@ -56,3 +56,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | 19 | 2026-10-20 | Strings | Valid Palindrome | O(n) | O(1) |
 | 20 | 2026-10-21 | Strings | Implement strStr() (KMP) | O(n + m) | O(m) |
 | 21 | 2026-10-22 | Linked Lists | Reverse Linked List | O(n) | O(1) |
+| 22 | 2026-10-23 | Linked Lists | Linked List Cycle | O(n) | O(1) |
