@@ -57,3 +57,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [20](day-020/) | 2026-10-21 | Strings | Implement strStr() (KMP) | O(n + m) | O(m) |
 | [21](day-021/) | 2026-10-22 | Linked Lists | Reverse Linked List | O(n) | O(1) |
 | [22](day-022/) | 2026-10-23 | Linked Lists | Linked List Cycle | O(n) | O(1) |
+| [23](day-023/) | 2026-10-24 | Linked Lists | Merge Two Sorted Lists | O(n + m) | O(1) |
