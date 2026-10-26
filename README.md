@@ -58,3 +58,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [21](day-021/) | 2026-10-22 | Linked Lists | Reverse Linked List | O(n) | O(1) |
 | [22](day-022/) | 2026-10-23 | Linked Lists | Linked List Cycle | O(n) | O(1) |
 | [23](day-023/) | 2026-10-24 | Linked Lists | Merge Two Sorted Lists | O(n + m) | O(1) |
+| [24](day-024/) | 2026-10-26 | Linked Lists | Remove Nth Node From End of List | O(n) | O(1) |
