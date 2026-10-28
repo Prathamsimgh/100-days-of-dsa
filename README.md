@@ -60,3 +60,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [23](day-023/) | 2026-10-24 | Linked Lists | Merge Two Sorted Lists | O(n + m) | O(1) |
 | [24](day-024/) | 2026-10-26 | Linked Lists | Remove Nth Node From End of List | O(n) | O(1) |
 | [25](day-025/) | 2026-10-27 | Linked Lists | Intersection of Two Linked Lists | O(m + n) | O(1) |
+| [26](day-026/) | 2026-10-28 | Linked Lists | Palindrome Linked List | O(n) | O(1) |
