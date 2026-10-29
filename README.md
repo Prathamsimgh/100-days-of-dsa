@@ -61,3 +61,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [24](day-024/) | 2026-10-26 | Linked Lists | Remove Nth Node From End of List | O(n) | O(1) |
 | [25](day-025/) | 2026-10-27 | Linked Lists | Intersection of Two Linked Lists | O(m + n) | O(1) |
 | [26](day-026/) | 2026-10-28 | Linked Lists | Palindrome Linked List | O(n) | O(1) |
+| [27](day-027/) | 2026-10-29 | Linked Lists | Add Two Numbers | O(max(m, n)) | O(1) |
