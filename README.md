@@ -63,3 +63,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [26](day-026/) | 2026-10-28 | Linked Lists | Palindrome Linked List | O(n) | O(1) |
 | [27](day-027/) | 2026-10-29 | Linked Lists | Add Two Numbers | O(max(m, n)) | O(1) |
 | [28](day-028/) | 2026-10-30 | Linked Lists | Reorder List | O(n) | O(1) |
+| [29](day-029/) | 2026-10-31 | Linked Lists | Rotate List | O(n) | O(1) |
