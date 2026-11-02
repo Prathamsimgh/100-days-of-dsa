@@ -65,3 +65,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [28](day-028/) | 2026-10-30 | Linked Lists | Reorder List | O(n) | O(1) |
 | [29](day-029/) | 2026-10-31 | Linked Lists | Rotate List | O(n) | O(1) |
 | [30](day-030/) | 2026-11-01 | Stacks & Queues | Valid Parentheses | O(n) | O(n) |
+| [31](day-031/) | 2026-11-02 | Stacks & Queues | Min Stack | O(1) | O(n) |
