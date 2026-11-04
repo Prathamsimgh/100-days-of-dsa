@@ -67,3 +67,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [30](day-030/) | 2026-11-01 | Stacks & Queues | Valid Parentheses | O(n) | O(n) |
 | [31](day-031/) | 2026-11-02 | Stacks & Queues | Min Stack | O(1) | O(n) |
 | [32](day-032/) | 2026-11-03 | Stacks & Queues | Daily Temperatures | O(n) | O(n) |
+| [33](day-033/) | 2026-11-04 | Stacks & Queues | Evaluate Reverse Polish Notation | O(n) | O(n) |
