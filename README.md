@@ -68,3 +68,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [31](day-031/) | 2026-11-02 | Stacks & Queues | Min Stack | O(1) | O(n) |
 | [32](day-032/) | 2026-11-03 | Stacks & Queues | Daily Temperatures | O(n) | O(n) |
 | [33](day-033/) | 2026-11-04 | Stacks & Queues | Evaluate Reverse Polish Notation | O(n) | O(n) |
+| [34](day-034/) | 2026-11-05 | Stacks & Queues | Next Greater Element I | O(n + m) | O(n) |
