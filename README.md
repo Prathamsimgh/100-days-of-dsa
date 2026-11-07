@@ -70,3 +70,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [33](day-033/) | 2026-11-04 | Stacks & Queues | Evaluate Reverse Polish Notation | O(n) | O(n) |
 | [34](day-034/) | 2026-11-05 | Stacks & Queues | Next Greater Element I | O(n + m) | O(n) |
 | [35](day-035/) | 2026-11-06 | Trees & BST | Maximum Depth of Binary Tree | O(n) | O(h) |
+| [36](day-036/) | 2026-11-07 | Trees & BST | Lowest Common Ancestor of a Binary Tree | O(n) | O(h) |
