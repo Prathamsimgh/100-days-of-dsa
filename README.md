@@ -72,3 +72,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [35](day-035/) | 2026-11-06 | Trees & BST | Maximum Depth of Binary Tree | O(n) | O(h) |
 | [36](day-036/) | 2026-11-07 | Trees & BST | Lowest Common Ancestor of a Binary Tree | O(n) | O(h) |
 | [37](day-037/) | 2026-11-08 | Trees & BST | Diameter of Binary Tree | O(n) | O(h) |
+| [38](day-038/) | 2026-11-09 | Trees & BST | Validate Binary Search Tree | O(n) | O(h) |
