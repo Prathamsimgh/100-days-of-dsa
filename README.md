@@ -74,3 +74,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [37](day-037/) | 2026-11-08 | Trees & BST | Diameter of Binary Tree | O(n) | O(h) |
 | [38](day-038/) | 2026-11-09 | Trees & BST | Validate Binary Search Tree | O(n) | O(h) |
 | [39](day-039/) | 2026-11-10 | Trees & BST | Binary Tree Level Order Traversal | O(n) | O(w) |
+| [40](day-040/) | 2026-11-11 | Trees & BST | Invert Binary Tree | O(n) | O(h) |
