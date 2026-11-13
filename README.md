@@ -76,3 +76,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [39](day-039/) | 2026-11-10 | Trees & BST | Binary Tree Level Order Traversal | O(n) | O(w) |
 | [40](day-040/) | 2026-11-11 | Trees & BST | Invert Binary Tree | O(n) | O(h) |
 | [41](day-041/) | 2026-11-12 | Trees & BST | Symmetric Tree | O(n) | O(h) |
+| [42](day-042/) | 2026-11-13 | Trees & BST | Kth Smallest Element in a BST | O(h + k) | O(h) |
