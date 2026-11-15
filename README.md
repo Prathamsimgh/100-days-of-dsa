@@ -78,3 +78,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [41](day-041/) | 2026-11-12 | Trees & BST | Symmetric Tree | O(n) | O(h) |
 | [42](day-042/) | 2026-11-13 | Trees & BST | Kth Smallest Element in a BST | O(h + k) | O(h) |
 | [43](day-043/) | 2026-11-14 | Trees & BST | Serialize and Deserialize Binary Tree | O(n) | O(n) |
+| [44](day-044/) | 2026-11-15 | Trees & BST | Binary Tree Right Side View | O(n) | O(w) |
