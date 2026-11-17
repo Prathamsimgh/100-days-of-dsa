@@ -80,3 +80,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [43](day-043/) | 2026-11-14 | Trees & BST | Serialize and Deserialize Binary Tree | O(n) | O(n) |
 | [44](day-044/) | 2026-11-15 | Trees & BST | Binary Tree Right Side View | O(n) | O(w) |
 | [45](day-045/) | 2026-11-16 | Heaps | Kth Largest Element in an Array | O(n log k) | O(k) |
+| [46](day-046/) | 2026-11-17 | Heaps | Top K Frequent Elements | O(n log k) | O(n) |
