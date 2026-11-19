@@ -82,3 +82,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [45](day-045/) | 2026-11-16 | Heaps | Kth Largest Element in an Array | O(n log k) | O(k) |
 | [46](day-046/) | 2026-11-17 | Heaps | Top K Frequent Elements | O(n log k) | O(n) |
 | [47](day-047/) | 2026-11-18 | Heaps | Merge K Sorted Lists | O(N log k) | O(k) |
+| [48](day-048/) | 2026-11-19 | Heaps | Find Median from Data Stream | O(log n) | O(n) |
