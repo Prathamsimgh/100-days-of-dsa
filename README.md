@@ -84,3 +84,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [47](day-047/) | 2026-11-18 | Heaps | Merge K Sorted Lists | O(N log k) | O(k) |
 | [48](day-048/) | 2026-11-19 | Heaps | Find Median from Data Stream | O(log n) | O(n) |
 | [49](day-049/) | 2026-11-20 | Heaps | K Closest Points to Origin | O(n log k) | O(k) |
+| [50](day-050/) | 2026-11-21 | Heaps | Task Scheduler | O(n log k) | O(k) |
