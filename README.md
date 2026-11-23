@@ -86,3 +86,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [49](day-049/) | 2026-11-20 | Heaps | K Closest Points to Origin | O(n log k) | O(k) |
 | [50](day-050/) | 2026-11-21 | Heaps | Task Scheduler | O(n log k) | O(k) |
 | [51](day-051/) | 2026-11-22 | Heaps | Last Stone Weight | O(n log n) | O(n) |
+| [52](day-052/) | 2026-11-23 | Heaps | Find K Pairs with Smallest Sums | O(k log k) | O(k) |
