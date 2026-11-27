@@ -90,3 +90,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [53](day-053/) | 2026-11-24 | Graphs | Number of Islands | O(m * n) | O(min(m, n)) |
 | [54](day-054/) | 2026-11-25 | Graphs | Rotting Oranges | O(m * n) | O(m * n) |
 | [55](day-055/) | 2026-11-26 | Graphs | Clone Graph | O(V + E) | O(V) |
+| [56](day-056/) | 2026-11-27 | Graphs | Course Schedule | O(V + E) | O(V + E) |
