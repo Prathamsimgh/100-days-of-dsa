@@ -91,3 +91,4 @@ Full topic schedule: [SCHEDULE.md](SCHEDULE.md)
 | [54](day-054/) | 2026-11-25 | Graphs | Rotting Oranges | O(m * n) | O(m * n) |
 | [55](day-055/) | 2026-11-26 | Graphs | Clone Graph | O(V + E) | O(V) |
 | [56](day-056/) | 2026-11-27 | Graphs | Course Schedule | O(V + E) | O(V + E) |
+| [57](day-057/) | 2026-11-28 | Graphs | Network Delay Time | O(E log V) | O(V + E) |
